@@ -1,0 +1,5 @@
+/srfi-64.import.scm
+/srfi-64.c
+/srfi-64.import.c
+*.o
+*.so

@@ -1,0 +1,7 @@
+;;; srfi-64.meta -*- Scheme -*-
+
+((synopsis "SRFI 64 implementation")
+ (license "SRFI")
+ (category testing)
+ (author "Sunjoong Lee")
+ (files "srfi-64-port.scm""srfi-64.scm" "srfi-64.meta" "srfi-64.setup"))
