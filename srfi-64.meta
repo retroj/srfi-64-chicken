@@ -1,6 +1,6 @@
 ;;; srfi-64.meta -*- Scheme -*-
 
-((synopsis "SRFI 64 implementation")
+((synopsis "SRFI 64:\"A Scheme API for test suites\" implementation")
  (license "SRFI")
  (category testing)
  (author "Sunjoong Lee")
