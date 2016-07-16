@@ -4,5 +4,6 @@
  (license "SRFI")
  (category testing)
  (author "Sunjoong Lee")
+ (maintainer "John J. Foerch <jjfoerch@earthlink.net>")
  (files "srfi-64/srfi-64-port.scm" "srfi-64.scm"
         "srfi-64.meta" "srfi-64.setup"))
