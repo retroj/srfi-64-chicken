@@ -1,3 +1,0 @@
-[submodule "srfi-64"]
-	path = srfi-64
-	url = https://bitbucket.org/sunjoong/srfi-64-port.git
