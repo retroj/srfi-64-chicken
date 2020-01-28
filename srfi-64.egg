@@ -4,7 +4,7 @@
  (license "SRFI")
  (category testing)
  (author "Sunjoong Lee")
- (maintainer "John J. Foerch <jjfoerch@earthlink.net>")
+ (maintainer "John J. Foerch <jjfoerch@gmail.com>")
  (components (extension srfi-64
                         (source-dependencies
                          "srfi-64/srfi-64-port.scm"
