@@ -1,0 +1,11 @@
+;;; srfi-64.egg -*- Scheme -*-
+
+((synopsis "SRFI 64:\"A Scheme API for test suites\" implementation")
+ (license "SRFI")
+ (category testing)
+ (author "Sunjoong Lee")
+ (maintainer "John J. Foerch <jjfoerch@earthlink.net>")
+ (components (extension srfi-64
+                        (source-dependencies
+                         "srfi-64/srfi-64-port.scm"
+                         "srfi-64.scm"))))
