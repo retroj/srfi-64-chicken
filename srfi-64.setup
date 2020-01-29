@@ -4,4 +4,4 @@
 (install-extension
  'srfi-64
  '("srfi-64.so" "srfi-64.import.so")
- '((version "1.0.4")))
+ '((version "1.0.5")))
