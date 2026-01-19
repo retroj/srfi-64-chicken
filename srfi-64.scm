@@ -6,7 +6,8 @@
     (chicken-5
       (import scheme
               (chicken base)
-              (chicken module)))
+              (chicken module)
+              (chicken condition)))
     (chicken-6
       (import (scheme base)
               (scheme read)
